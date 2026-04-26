@@ -2,4 +2,3 @@
 
 Perceptron ✅
 
-Perceptron with sigmoid ❓
