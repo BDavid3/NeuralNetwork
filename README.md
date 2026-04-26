@@ -1,3 +1,4 @@
 # NeuralNetwork
 
-Basic working Perceptron ✅
+Perceptron ✅
+
