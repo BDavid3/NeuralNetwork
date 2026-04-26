@@ -6,7 +6,7 @@ namespace NeuralNetwork
     {
         static void Main(string[] args)
         {
-            BinaryPerceptron();
+           
         }
         static void ClosingInPerceptron()
         {
@@ -69,7 +69,6 @@ namespace NeuralNetwork
             }
             while (currentWeightedSUM < 199.99 || currentWeightedSUM > 200.01);
         }
-
         static void BinaryPerceptron()
         {
             Random r = new Random();
