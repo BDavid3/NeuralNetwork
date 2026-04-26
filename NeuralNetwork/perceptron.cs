@@ -4,6 +4,9 @@
     {
         static void Main(string[] args)
         {
+
+            // Goal is to hit around 200.00
+
             double threshold;
             double currentWeightedSUM;
             Random r = new Random();
