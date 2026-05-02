@@ -1,4 +1,4 @@
 # NeuralNetwork
 
-Perceptron ✅
+Perceptron
 
